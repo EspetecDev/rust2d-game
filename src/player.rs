@@ -69,7 +69,5 @@ impl Player {
         else { 
             self.current_speed = self.regular_speed; 
         }
-    }
-
-    
+    }   
 }
